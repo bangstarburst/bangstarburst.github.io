@@ -60,15 +60,22 @@ a{
 	-webkit-border-radius: 2px;
 	-moz-border-radius: 2px;
 	border-radius: 2px;
+	padding: 1px;
 }
-.tweet .t-inner{}
-.tweet .t-inner .t-avatar{
-	display: inline-block;
-	width: 32px;
-	height: 32px;
-	background: url(../../assets/img/avatar.jpg) no-repeat;
+.tweet .attach-img{
+	border: 1px solid #cecece;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
 }
-
+.tweet .attach-img img{
+	width: 100%;
+}
+.tweet .time{
+	padding: 5px 10px;
+    font-size: 12px;
+    background-color: #f9f9f9;
+}
 
 blockquote {
   background: #f9f9f9;
