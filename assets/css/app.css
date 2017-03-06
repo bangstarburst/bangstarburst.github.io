@@ -56,6 +56,10 @@ a{
 
 .tweet{
 	border: 1px solid #cecece;
+    margin: 3px 0;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
 }
 .tweet .t-inner{}
 .tweet .t-inner .t-avatar{
