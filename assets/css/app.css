@@ -47,12 +47,10 @@ a{
 .logo .name h1{
 	font-weight: bold;
     font-size: 18px;
-    padding: 10px 0;
 }
 .logo .bio h3{
 	font-size: 14px;
 	font-weight: bold;
-	padding: 2%;
 }
 
 .tweet{
